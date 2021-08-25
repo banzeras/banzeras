@@ -1,4 +1,4 @@
-### Hi there, be welcome! I'm EMANUEL ELIAS! 👋
+### Hi there, be welcome! I'm EMANUEL ELIAS! 👋 <img align="center" href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
 - 💼 I’m currently working on data science projects.
 - 👨🏻‍💼 I'm currently specializing in NLP and finance market.
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banzeras&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  
     </div>
  
 <div> 
