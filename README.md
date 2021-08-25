@@ -6,7 +6,7 @@
 - 💬 Ask me about anything on @banzeras
 - 📫 How to reach me: eng.emanuel.elias@gmail.com or contato@emanuelelias.eng.br
 - ⚡ Fun fact: I love sports, gym, animes and the japanese culture!
-
+<img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
  <div>
   <a href="https://github.com/banzeras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banzeras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
