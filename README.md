@@ -2,7 +2,7 @@
 <h4>Say cheese, Gojou Satoru is taking pictures of you! 👋 <!--<img align="center-right"href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">--></h4> 
  <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/banzeras" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 - 💼 I’m currently working on data science projects.
