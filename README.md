@@ -1,4 +1,4 @@
-### Hi there, be welcome! I'm EMANUEL ELIAS, take a seat and take your time! 👋
+### Hi there, be welcome! I'm EMANUEL ELIAS! 👋
 
 - 💼 I’m currently working on data science projects.
 - 👨🏻‍💼 I'm currently specializing in NLP and finance market.
