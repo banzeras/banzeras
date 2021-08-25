@@ -8,7 +8,7 @@
 - 💼 I’m currently working on data science projects.
 - 👨🏻‍💼 I'm currently specializing in NLP and finance market.
 - 🤔 I’m looking for help to become a billionaire 😂
-- 💬 Ask me about anything on @banzeras
+- 💬 Ask me about anything on <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - 📫 How to reach me: eng.emanuel.elias@gmail.com or contato@emanuelelias.eng.br
 - ⚡ Fun fact: I love sports, gym, animes and the japanese culture!
 <img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
