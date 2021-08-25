@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-  <img align="right" alt="gojou" src="https://giphy.com/gifs/swerk-anime-manga-jujutsu-kaisen-9mH5k7ZiXkjtNEQTMU"> 
+  <img align="right" alt="gojou" src="https://tenor.com/view/satoru-gojo-gojo-jujutsu-kaisen-phone-picture-gif-18749876"> 
   </div>
  
 <div> 
