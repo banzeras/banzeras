@@ -1,6 +1,10 @@
 ### Hi there, be welcome! I'm EMANUEL ELIAS! 
 <h4>Say cheese, Gojou Satoru is taking pictures of you! 👋</h4> <img align="center-right"href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-
+ <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/banzeras" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 - 💼 I’m currently working on data science projects.
 - 👨🏻‍💼 I'm currently specializing in NLP and finance market.
 - 🤔 I’m looking for help to become a billionaire 😂
@@ -15,10 +19,7 @@
 </div>
  
 <div> 
-   <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/banzeras" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/banzeras/banzeras/blob/output/github-contribution-grid-snake.svg)
  
