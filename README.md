@@ -1,4 +1,5 @@
-### Hi there, be welcome! I'm EMANUEL ELIAS! 👋 <img align="center" href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+### Hi there, be welcome! I'm EMANUEL ELIAS! 
+###Say cheese, Gojou Satoru is taking pictures of you! 👋 <img align="center" href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
 - 💼 I’m currently working on data science projects.
 - 👨🏻‍💼 I'm currently specializing in NLP and finance market.
