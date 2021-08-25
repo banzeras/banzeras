@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-  <img align="right" alt="gojou"  height="360" width="240"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
+  <img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
   </div>
  
 <div> 
