@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help to become a billionaire. 😂
 - 💬 Ask me about anything on instagram.
 - 📫 How to reach me: eng.emanuel.elias@gmail.com or contato@emanuelelias.eng.br
-- ⚡ Fun fact: I love sports, gym, animes and the japanese culture!
+- ⚡ Fun facts: I love sports, gym, animes and the japanese culture!
 <img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
  <div>
   <a href="https://github.com/banzeras">
