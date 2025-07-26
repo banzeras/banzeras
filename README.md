@@ -1,14 +1,13 @@
-### Hi there, be welcome! I am EMANUEL ELIAS! 
-<h4>Say cheese, Gojou Satoru is taking pictures of you! 👋 <!--<img align="center-right"href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">--></h4> 
- <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/banzeras" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Hi there, be welcome! I am EMANUEL! 
+<h4>Say cheese, Gojo Satoru is taking pictures of you! 👋 <!--<img align="center-right"href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">--></h4> 
+ <!-- <a href="https://instagram.com/banzeras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<> <a href="https://www.twitch.tv/banzeras" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <> <a href = "mailto:eng.emanuel.elias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> -->
+  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-- 💼 I’m currently working on data science projects.
-- 👨🏻‍💼 I'm currently specializing in NLP and finance market.
-- 💬 Ask me about anything on instagram.
-- 📫 How to reach me: eng.emanuel.elias@gmail.com or contato@emanuelelias.eng.br
+- 💼 Currently, I work with AI and data analytics projects. Most of the projects I work on are under non-disclosure agreements, and as a result, I cannot include the code on GitHub.
+- 💬 Ask me about anything on LinkedIn.
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank">https://www.linkedin.com/in/emanuel-elias/</a> 
 - ⚡ Fun facts: I love sports, gym, animes and the japanese culture!
 <img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
  <div>
