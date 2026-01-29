@@ -5,11 +5,11 @@
 - 💼 I work with AI and data analytics.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank">https://www.linkedin.com/in/emanuel-elias/</a> 
 <img align="right" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
- <div>
+ <!-- <div>
   <a href="https://github.com/banzeras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banzeras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banzeras&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
  
 <div> 
   
