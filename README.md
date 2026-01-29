@@ -1,12 +1,12 @@
 ### Hi there, be welcome! I am EMANUEL! 
-
+- 💼 I work with AI and data analytics.
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank">https://www.linkedin.com/in/emanuel-elias/</a> 
   <h4>Say cheese, Gojo Satoru is taking pictures of you! 👋 <!--<img align="center-right"href="https://github.com/banzeras" alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">--></h4> 
   <img align="left" alt="gojou"  height="420" width="360"  src="https://c.tenor.com/ZPBDeLGQsWEAAAAd/satoru-gojo-gojo.gif"> 
 
 <!-- <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   
-- 💼 I work with AI and data analytics.
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/emanuel-elias/" target="_blank">https://www.linkedin.com/in/emanuel-elias/</a> 
+
 
  <!-- <div>
   <a href="https://github.com/banzeras">
